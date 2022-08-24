@@ -1,4 +1,4 @@
-# This is title(ha ha ha)
+# This is title 
 
 ## Abstract
 
