@@ -12,7 +12,7 @@ this is introduction.
 
 ### Method1
 
-I do an experiment using method1.
+I do an experiment using method1-A.
 
 ### Method2
 
